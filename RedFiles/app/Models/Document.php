@@ -9,7 +9,7 @@ class Document extends Model
 {
     use HasFactory;
 
-    protected $fillable = ['title', 'content', 'category_id', 'user_id'];
+    protected $fillable = ['title', 'content', 'category_id', 'user_id','file_path'];
 
     // Document belongs to a Category
     public function category()

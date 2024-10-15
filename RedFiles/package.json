@@ -13,8 +13,9 @@
         "lodash": "^4.17.19",
         "postcss": "^8.1.14",
         "sass": "^1.56.1",
-        "vite": "^4.0.0",
-        "vue": "^3.2.37"
+        "vite": "^5.4.9",
+        "vue": "^3.2.37",
+        "vue-loader": "^17.4.2"
     },
     "dependencies": {
         "vue-router": "^4.4.5"
